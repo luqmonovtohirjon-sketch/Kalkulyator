@@ -1,2 +1,2 @@
-# Kalkulyator
+# calculator
 Hisob-kitob
