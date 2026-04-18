@@ -7,7 +7,7 @@ body{
 }
 
 .quti{
-  width: 320px;
+  width: 100%;
   padding: 15px;
   box-sizing: border-box;
   border-radius: 10px;
@@ -17,7 +17,7 @@ body{
 
 /* natija */
 table{
-  width: 100%;
+  width: 290px;
   height: 50px;
   border: 1px solid #7C7C7C;
   border-radius: 5px;
